@@ -19,13 +19,12 @@ I am currently undergoing a Bachelor of Science in theoretical physics at Univer
 ## Education
 
 - Bachelor of Science in Theoretical Physics, University College London
-- Coursework includes: 
+- Coursework includes: Maths, Computing, Atoms Stars and the Universe, Waves and Optics, Mechanics, Practical Physics
 
 - Software Engineering Bootcamp, HyperionDev
-- Coursework includes:
+- Coursework includes: Python, Java, HTML, CSS, SQL, Django, Git
 
-- Maths, Physics, German, Computing (1 Year), St Paul's School
-- Coursework includes:
+- Maths, Physics, German, Computing (1 Year), St Paul's School London
 
 ## Contact
 
