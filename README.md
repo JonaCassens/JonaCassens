@@ -15,6 +15,7 @@ I am currently undergoing a Bachelor of Science in theoretical physics at Univer
 
 - inventory.py: A python program that allows user to manage an inventory of shoes. Key technologies used: OOP, Defensive Programming. https://github.com/JonaCassens/finalCapstone
 - task_manager.py: A command line tool for managing users and tasks. Key technologies used: Functions, File I/O. https://github.com/JonaCassens/taskManager.
+- watch-next.py: A python program that recommends a new movie depending on an input. Key technologies used: NLP, spaCy. https://github.com/JonaCassens/watch-next.
 
 ## Education
 
