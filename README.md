@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hi there! My name is Jonathan Cassens and I am a junior software engineer with a background in theoretical physics. I have always been fascinated by the intersection of science and technology, and I am excited to use my skills and knowledge to build innovative software solutions.
+Hi, my name is Jonathan Cassens and I am an aspiring software engineer with a background in theoretical physics. I am excited by the prospect of using my skills and knowledge to build innovative software solutions.
 
-I am currently undergoing a Bachelor of Science in theoretical physics at University College London (UCL), where I am further reinforcing a strong foundation in advanced mathematics and physics principles. In my free time, I enjoy exploring the latest technologies and tinkering with new programming languages.
+I am currently undergoing a Bachelor of Science in theoretical physics at University College London (UCL), where I am further reinforcing a strong foundation in advanced mathematics and physics principles. Alongside this I have completed a scholarship course in Software Engineering at HyperionDev that has provided me with a deep understanding of coding.
 
 ## Skills
 
