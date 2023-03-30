@@ -34,5 +34,5 @@ I am currently undergoing a Bachelor of Science in theoretical physics at Univer
 
 ## Conclusion
 
-Thank you for considering my background and skills. I am excited to continue learning and growing as a software engineer, and I am open to new opportunities and challenges. Please don't hesitate to reach out to me to learn more about my work or to discuss potential collaborations.
+Thank you for considering my background and skills. I am excited to continue learning and growing as a software engineer, and I am open to new opportunities and challenges. Please don't hesitate to reach out to me to learn more about my work or to discuss potential opportunies.
 
