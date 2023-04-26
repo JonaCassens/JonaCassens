@@ -30,9 +30,5 @@ I am currently undergoing a Bachelor of Science in theoretical physics at Univer
 ## Contact
 
 - Email: jonathancassens@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jonathan-cassens-48967b225/
-
-## Conclusion
-
-Thank you for considering my background and skills. I am excited to continue learning and growing as a software engineer, and I am open to new opportunities and challenges. Please don't hesitate to reach out to me to learn more about my work or to discuss potential opportunies.
+- LinkedIn: https://www.linkedin.com/in/jonathan-cassens-48967b225
 
