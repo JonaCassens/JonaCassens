@@ -59,7 +59,7 @@ I characterize myself as a "high-slope" engineer—bridging the gap between comp
 
 ## 💼 Experience
 
-**Software Engineering Intern @ Sky**
+**Software Engineering Placement @ Sky**
 * Refreshed a legacy React component for an internal video tagging tool.
 * **Impact:** Reduced content tagging time by **17%** and resolved critical UI bugs in an Agile environment.
 
