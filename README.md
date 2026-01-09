@@ -38,6 +38,16 @@ I characterise myself as a "high-slope" engineer—bridging the gap between comp
 
 ## 🚀 Key Projects
 
+### ⚛️ Particle Beam Simulation (Generative AI & Physics) [In Progress]
+* **Tech:** Python, PyTorch/TensorFlow, WGAN-GP, Geant4.
+* **Description:** Engineering a Wasserstein GAN (WGAN-GP) to emulate 105 MeV pion-to-muon decay distributions for the COMET experiment. The model replaces computationally expensive Geant4 tracking in high magnetic fields by learning complex phase space manifolds.
+* **Impact:** Enables high-statistics background modelling for BSM physics with a projected millionfold computational speedup over traditional methods.
+
+### 🏠 AI Tenant Matchmaker (NLP + API Development)
+* **Tech:** Python, FastAPI, Google Gemini (LLM), REST API.
+* **Description:** Built a production-ready API that matches tenants to rental properties by inferring budget preferences from natural language conversations using Google's Gemini LLM.
+* **Impact:** Processes **350+ properties** and returns top 3 matches with price proximity within seconds. Deployed with full API documentation and testing suite.
+
 ### 🔥 Wildfire Detection (Computer Vision)
 * **Tech:** Python, TensorFlow, Keras, U-Net (CNN).
 * **Description:** Engineered a Semantic Segmentation model to identify wildfires from satellite imagery. Handled a massive dataset of **51,000 images** and solved severe class imbalance issues.
