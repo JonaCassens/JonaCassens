@@ -4,7 +4,7 @@
 
 I am a postgraduate student currently reading for an **MRes in Machine Learning and Big Data at Imperial College London**, with a background in **Theoretical Physics from UCL**.
 
-I characterise myself as a "high-slope" engineer—bridging the gap between complex mathematical modelling and practical, shipping software. I combine the analytical rigour of physics with the "get-it-done" mentality of a full-stack developer.
+I characterise myself as a "high-slope" engineer: bridging the gap between complex mathematical modelling and practical, shipping software. I combine the analytical rigour of physics with the "get-it-done" mentality of a full-stack developer.
 
 - 🔭 **I’m currently working on:** Advanced Computer Vision models and Reinforcement Learning agents.
 - 💼 **I have experience in:** Quantitative Analysis, Full-Stack Web Development, and Commercial Risk Management.
