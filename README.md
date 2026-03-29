@@ -43,6 +43,12 @@ I characterise myself as a "high-slope" engineer: bridging the gap between compl
 * **Description:** Engineering a Wasserstein GAN (WGAN-GP) to emulate 105 MeV pion-to-muon decay distributions for the COMET experiment. The model replaces computationally expensive Geant4 tracking in high magnetic fields by learning complex phase space manifolds.
 * **Impact:** Enables high-statistics background modelling for BSM physics with a projected millionfold computational speedup over traditional methods.
 
+### 🪐 ArXiv Physics RAG (Retrieval-Augmented Generation for Physics Papers) [Proof of Concept]
+
+* **Tech:** Python, FastAPI, React, Ollama (Llama 3), ChromaDB, Podman/Docker.
+* **Description:** Local web app for question answering over high-energy physics arXiv abstracts. Ingests and embeds abstracts into a vector database (ChromaDB), retrieves relevant context, and generates grounded, cited answers using a local LLM via Ollama. Features a streaming FastAPI backend and a React chat frontend.
+* **Impact:** Enables fast, private, and citation-backed scientific Q&A on arXiv topics without cloud dependencies. Designed for experimentation and future extension to broader scientific domains.
+
 ### 🏠 AI Tenant Matchmaker (NLP + API Development)
 * **Tech:** Python, FastAPI, Google Gemini (LLM), REST API.
 * **Description:** Built a production-ready API that matches tenants to rental properties by inferring budget preferences from natural language conversations using Google's Gemini LLM.
